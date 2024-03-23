@@ -1,0 +1,1 @@
+## Codes to generate K8s resources through Go-client
